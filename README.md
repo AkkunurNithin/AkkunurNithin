@@ -10,12 +10,11 @@
 
 ## 🚀 About Me
 
-🎓 Final Year B.Tech Student (Computer Science in Data Science)
+🎓 Graduted B.Tech Student (Computer Science in Data Science)
 
 🌱 Currently Learning:
 - MERN Stack
 - Data Structures & Algorithms
-- SAP ABAP
 
 💻 Interested in:
 - Frontend Development
@@ -124,14 +123,14 @@
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: akkunurnithin1234@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/akkunur-nithin-370641312
 
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+🐙 GitHub: https://github.com/AkkunurNithin
 
 ---
 
 <h3 align="center">
-⭐ Open to Frontend Developer, React Developer, and Software Developer Opportunities
+Open to Frontend Developer, React Developer, and Software Developer Opportunities
 </h3>

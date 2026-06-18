@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akkunur Nithin</h1>
 
-<h3 align="center">Frontend Developer | MERN Stack Learner | Problem Solver</h3>
+<h3 align="center"> MERN Stack Developer</h3>
 
 <p align="center">
   Passionate about building responsive web applications and continuously improving my development skills through projects and coding challenges.
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 Graduted B.Tech Student (Computer Science in Data Science)
+🎓 Graduted B.Tech Student (Computer Science and Engineering)
 
 🌱 Currently Learning:
 - MERN Stack

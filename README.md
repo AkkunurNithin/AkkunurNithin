@@ -79,6 +79,11 @@
 
 ## 🚀 Featured Projects
 
+## One Stop Personalized Career And Education Advaisor
+- one stop solution for student career decisions
+- Built using React, JavaScript, Node.js, MongoDB and Mongoose Atlas
+- Responsive UI And User SignUP and SignIN
+
 ### 📰 Campus Connect – AI Powered Edge News PWA
 - AI-powered campus news platform
 - Built using React, JavaScript, PHP, and MySQL

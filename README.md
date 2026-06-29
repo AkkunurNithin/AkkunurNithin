@@ -8,15 +8,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 Graduted B.Tech Student (Computer Science and Engineering)
 
-🌱 Currently Learning:
+==> Currently Learning:
 - MERN Stack
 - Data Structures & Algorithms
 
-💻 Interested in:
+==> Interested in:
 - Frontend Development
 - Full Stack Development
 - Web Technologies

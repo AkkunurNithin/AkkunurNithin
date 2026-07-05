@@ -84,17 +84,24 @@
 - Built using React, JavaScript, Node.js, MongoDB and Mongoose Atlas
 - Responsive UI And User SignUP and SignIN
 
-### 📰 Campus Connect – AI Powered Edge News PWA
+## Trello Clone
+- Built a responsive Trello Clone using HTML, CSS, and JavaScript with a clean and intuitive user interface.
+- Implemented drag-and-drop functionality to manage boards, lists, and task cards efficiently.
+- Added features such as creating, editing, deleting, searching, and organizing tasks with real-time updates.
+- Used Local Storage to persist user data, ensuring tasks remain available after page refreshes.
+
+
+## 📰 Campus Connect – AI Powered Edge News PWA
 - AI-powered campus news platform
 - Built using React, JavaScript, PHP, and MySQL
 - Real-time campus updates and announcements
 
-### 🏗️ BuildBuddy
+## 🏗️ BuildBuddy
 - Construction service platform
 - React + Tailwind CSS
 - Service discovery and user-friendly interface
 
-### 🌦️ Weather App
+## 🌦️ Weather App
 - Real-time weather information
 - API Integration
 - Responsive UI

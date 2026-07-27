@@ -47,13 +47,10 @@
   <a href="https://www.linkedin.com/in/akkunur-nithin-370641312">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/AkkunurNithin">YOUR_GITHUB_USERNAME</a> — Always learning, always building.</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/AkkunurNithin">AkkunurNithin</a> — Always learning, always building.</i></p>

@@ -41,36 +41,6 @@
 **Database:** MongoDB
 **Tools:** Git, GitHub, VS Code, Postman
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-> Replace `PROJECT_REPO_1` / `PROJECT_REPO_2` with your actual repo names — pin your best MERN projects here (e.g. an e-commerce app, a MERN auth system, a chat app).
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -86,4 +56,4 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a> — Always learning, always building.</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/AkkunurNithin">YOUR_GITHUB_USERNAME</a> — Always learning, always building.</i></p>
